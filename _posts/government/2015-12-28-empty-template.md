@@ -7,8 +7,11 @@ categories: Government
 ## Subect
 
 **Subect 1:** Oscar Solís  
+
 **Role:** Undersecretary of Added Value, Ministry of Agriculture
+
 **Place:** Buenos Aires
+
 **Date:** April 15, 2014
 
 **Subect 2:** Gabriel Delgado
