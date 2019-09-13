@@ -1,0 +1,23 @@
+---
+layout: post
+comments: false
+categories: Government
+---
+
+## Citation 1
+
+**Subect:** Oscar Solís  
+**Role:** Undersecretary of Added Value, Ministry of Agriculture
+**Place:** Buenos Aires
+**Date:** April 15, 2014
+
+**Subect:** Gabriel Delgado
+**Role:** former Secretary of Agriculture
+**Place:** Buenos Aires
+**Date:** December 12, 2015
+
+## Annotation
+
+Oscar Solís started by explaining that he worked in a private company that bought the seed from the U.S. and had it transferred to Argentina, which was later bought by Monsanto so that the patent could not be registered retroactively. Additionally, Monsanto was more interested in selling the herbicide Roundup, which was still patented before becoming generic glyphosate as the GM soybean seed RR1 was resistant to glyphosate and its spread increased the demand for Roundup.
+
+[10:18] "**we still have a seed law from 1973 and we are still discussing a new seed law because the current one allows the use of the reproduced seed and doesn’t allow its patenting because GMOs did not exist back then...** [10:58] This decision [to allow the RR1 in 1996] meant the survival of the Argentine producer in a negative context with low world prices. Without that technology many producers would’ve not subsisted as such [11:21]…[36:04] We believe that there is a need to update the seed law, that’s necessary, but we have different offices and agencies, in the Ministry, which are involved, such as the CONASE [Argentina’s National Seeds Commission], in which we have included the private sector as well [36:20]…[37:17] Marcelo Yasky, a representative of the Ministry of Agriculture, was involved in talking to all actors to see which was the best way to update it to pay for the non-own used for the seeds that can be self-reproduced, like soybean, that’s not the case for corn, where the grain is not useful for seed." [37:50]
